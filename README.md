@@ -19,3 +19,4 @@ git clone https://github.com/Tanish-235/face-recognition.git
 Replace the sample files or the file that I've used with ***your files***
 
 
+
