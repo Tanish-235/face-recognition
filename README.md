@@ -2,6 +2,18 @@
 
 A robust face recognition system built with Python that can detect, recognize, and verify human faces in real-time using computer vision and deep learning techniques
 
-### Installation of Modules
+
+## Setup
+
+### Create a new directory 
+
+**paste the below command**
+```
+git clone https://github.com/Tanish-235/face-recognition.git
+
+```
+
+### Then Install the required modules through 
   > pip install -r requirements.txt
+
 
